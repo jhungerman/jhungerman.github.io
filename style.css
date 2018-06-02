@@ -1,0 +1,47 @@
+body {
+  background-image: url("./images/comingsoon.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 850px
+}
+#toptext {
+  text-align: left;
+  opacity: 0.5;
+  vertical-align: top;
+  background-color: blue;
+}
+#toptext nav a {
+  margin-right: 10px;
+  margin-left: 10px;
+  text-decoration: none;
+}
+h1,
+h2,
+h3  {
+  color: white;
+  font-family: Arial;
+}
+.myname {
+  font-family: "Courier New";
+  text-decoration: underline;
+  text-shadow: 2px 2px 2px black;
+  opacity: 1.0;
+  margin-left: 10px
+}
+nav a {
+  font-family: Impact;
+  color: white;
+  text-shadow: 2px 2px 2px black
+}
+#mainnav {
+  opacity: 1.0;
+  display: block;
+}
+body img {
+  display: block;
+  margin-left: 10px;
+}
+#mypic {
+  margin-left: 13px;
+  margin-top: 20px;
+}
